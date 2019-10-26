@@ -11,5 +11,4 @@ function countdown( countdown ) {
     console.log( countdown );
     countdown -= 1;
   }
-  console.log( countdown );
 }
